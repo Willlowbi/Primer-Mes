@@ -43,7 +43,7 @@ span::before {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: url("../img/luna.png");
+    background-image: url("../img/luna.png");
     background-size: cover;
     animation: moveShape 1s linear infinite;
 }
